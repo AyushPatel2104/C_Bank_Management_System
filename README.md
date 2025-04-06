@@ -65,8 +65,6 @@ bash
 💡 Make sure GCC is installed.
 👉 Download GCC here (MinGW for Windows)
 
-📸 Screenshots
-Terminal Preview
 
 🧠 Learning Outcome
 This project is ideal for:
@@ -85,7 +83,7 @@ Made with ❤️ by Ayush Patel
 
 📬 Feel free to connect for collaboration, internships, or freelance work!
 
-🔗 GitHub Profile
+🔗 GitHub Profile :- https://github.com/AyushPatel2104
 
 yaml
 
